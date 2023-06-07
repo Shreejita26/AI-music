@@ -1,0 +1,14 @@
+.heading{
+    font-size:23px ;
+    border-radius: 9px;
+    color: azure;
+    box-shadow:5px 5px 20px lightblue ;
+    margin: 0;
+    width: 100%;
+}
+.note{
+ font-size: 18px;
+}
+body{
+    background-size: cover;
+}
